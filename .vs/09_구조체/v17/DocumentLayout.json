@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{205AD4A8-5B02-411F-AA47-CA34288C2B43}|09_\uAD6C\uC870\uCCB4.vcxproj|C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\04_\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{205AD4A8-5B02-411F-AA47-CA34288C2B43}|09_\uAD6C\uC870\uCCB4.vcxproj|solutionrelative:04_\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205AD4A8-5B02-411F-AA47-CA34288C2B43}|09_\uAD6C\uC870\uCCB4.vcxproj|C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\03_\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{205AD4A8-5B02-411F-AA47-CA34288C2B43}|09_\uAD6C\uC870\uCCB4.vcxproj|solutionrelative:03_\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205AD4A8-5B02-411F-AA47-CA34288C2B43}|09_\uAD6C\uC870\uCCB4.vcxproj|C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\02_\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{205AD4A8-5B02-411F-AA47-CA34288C2B43}|09_\uAD6C\uC870\uCCB4.vcxproj|solutionrelative:02_\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205AD4A8-5B02-411F-AA47-CA34288C2B43}|09_\uAD6C\uC870\uCCB4.vcxproj|C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\01_\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{205AD4A8-5B02-411F-AA47-CA34288C2B43}|09_\uAD6C\uC870\uCCB4.vcxproj|solutionrelative:01_\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "04_\uAD6C\uC870\uCCB4.c",
+              "DocumentMoniker": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\04_\uAD6C\uC870\uCCB4.c",
+              "RelativeDocumentMoniker": "04_\uAD6C\uC870\uCCB4.c",
+              "ToolTip": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\04_\uAD6C\uC870\uCCB4.c",
+              "RelativeToolTip": "04_\uAD6C\uC870\uCCB4.c",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-29T10:28:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03_\uAD6C\uC870\uCCB4.c",
+              "DocumentMoniker": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\03_\uAD6C\uC870\uCCB4.c",
+              "RelativeDocumentMoniker": "03_\uAD6C\uC870\uCCB4.c",
+              "ToolTip": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\03_\uAD6C\uC870\uCCB4.c",
+              "RelativeToolTip": "03_\uAD6C\uC870\uCCB4.c",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-29T09:44:46.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02_\uAD6C\uC870\uCCB4.c",
+              "DocumentMoniker": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\02_\uAD6C\uC870\uCCB4.c",
+              "RelativeDocumentMoniker": "02_\uAD6C\uC870\uCCB4.c",
+              "ToolTip": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\02_\uAD6C\uC870\uCCB4.c",
+              "RelativeToolTip": "02_\uAD6C\uC870\uCCB4.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-29T09:36:51.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "01_\uAD6C\uC870\uCCB4.c",
+              "DocumentMoniker": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\01_\uAD6C\uC870\uCCB4.c",
+              "RelativeDocumentMoniker": "01_\uAD6C\uC870\uCCB4.c",
+              "ToolTip": "C:\\Users\\rkden\\Desktop\\doyong\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\09_\uAD6C\uC870\uCCB4\\01_\uAD6C\uC870\uCCB4.c",
+              "RelativeToolTip": "01_\uAD6C\uC870\uCCB4.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-29T09:18:43.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
